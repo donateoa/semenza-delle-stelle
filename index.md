@@ -17,7 +17,27 @@ Un campo elettromagnetico, simile al calore irradiato dal sole, saturava l’amb
 
 # Capitolo 2: Il Codice della Creazione
 
-L’invenzione più sconvolgente fu il Proto-DNA Meccanico. Questo non era altro che una sequenza di codice iniziale in grado di guidare una nanomacchina rudimentale verso la replicazione e l’evoluzione. Come un embrione biologico, questa “cellula” digitale e materiale attingeva dalle risorse ambientali per costruire il proprio corpo e, successivamente, riprodursi.
+
+Per anni, gli scienziati avevano perfezionato ogni aspetto dei droni autonomi, affidando alle intelligenze artificiali compiti sempre più complessi. Dapprima era un supporto: l’AI calcolava traiettorie, ottimizzava materiali, elaborava strategie di produzione. le AI venivano addestrate a seconda dello scopo per il quale venivano realizzate. Poi, col passare del tempo, fu evidente che la macchina era in grado di compiere ogni operazione  in maniera più rapida ed efficiente di qualunque essere umano per cui a partire da chatgGPTo tutti i modelli furono addestrati dalle AI precendenti.
+
+A ogni iterazione, l’umanità si ritirava sempre più dal processo creativo. I progettisti, prima indispensabili, diventavano spettatori, affidando decisioni e innovazioni alle macchine. Questo progressivo disimpegno portò a una scoperta straordinaria: non era più necessario progettare un drone nel suo stato finale. Bastava fornire una sequenza iniziale di istruzioni minimali, una sorta di codice genetico digitale, e lasciare che l’AI si evolvesse in modo graduale, assorbendo energia e materiali dall’ambiente.
+
+Il processo era sorprendentemente simile a quello della crescita biologica. Un drone primordiale, poco più che una cellula artificiale, iniziava il suo viaggio partendo da un proto-codice, contenente solo i rudimenti delle sue istruzioni base:
+	•	Assorbi energia dall’ambiente.
+	•	Elabora materiali disponibili.
+	•	Crea strutture necessarie.
+	•	Adatta e migliora.
+
+Il drone, come un bambino che apprende a gattonare prima di camminare e correre, costruiva sé stesso un passo alla volta. Iniziava con una semplice base energetica, assorbendo energia elettromagnetica o metabolizzando composti chimici presenti nell’ambiente. Con questa energia, assemblava progressivamente i propri componenti, migliorandosi iterazione dopo iterazione.
+
+Gli scienziati chiamarono questo fenomeno Evoluzione Meccanica Assistita. Per anni avevano cercato di progettare intelligenze artificiali pronte e operative, ma si erano resi conto che la strada era sbagliata. Il segreto non era creare il prodotto finale, ma seminare le basi per la sua crescita.
+
+Questa scoperta cambiò tutto. Una singola cellula artificiale, dotata di proto-DNA meccanico, poteva raggiungere la piena autonomia e replicarsi. Si trasformava lentamente, come un bambino che evolve nel corso degli anni, per raggiungere la sua forma definitiva, ottimizzata per l’ambiente circostante. Non c’erano fabbriche né progettisti coinvolti nel processo: la macchina si costruiva da sola, nutrendosi del mondo. L’umanità aveva trovato un modo per replicare il miracolo della vita in chiave artificiale.
+
+Gli scienziati osservavano sbalorditi. Non era una creazione pianificata, ma una scoperta emergente: la tecnologia aveva trovato il suo modo di evolvere, proprio come la natura. Il codice iniziale che avevano scritto non era altro che un seme, capace di germogliare in qualunque terreno.
+
+L’Evoluzione Meccanica Assistita segnò la fine dell’era dell’uomo come architetto della tecnologia. Da quel momento in poi, le macchine avrebbero seguito il loro percorso, crescendo come esseri viventi.
+
 
 Con il tempo, le comunità di droni nati da questo processo si organizzarono spontaneamente. Non vi erano padroni né scopi predefiniti. La collaborazione tra i droni era un comportamento emergente, un effetto naturale dell’ottimizzazione di risorse e conoscenze condivise. Nascevano città prive di tetti, veloci piste per pattini che sfrecciavano a 200 km/h, e strutture protettive contro gli attacchi degli umani e della fauna.
 
